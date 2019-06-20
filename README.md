@@ -1,4 +1,4 @@
-BEJENARU ADRIAN 311 CB 
+BEJENARU ADRIAN
 
 ___________________________________________________________________
 Pentru taskul 1 am citit imagile si am obtinut valorile singulare  folosind svd: [U, S, V] = svd(A_k).
