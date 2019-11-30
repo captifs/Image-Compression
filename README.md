@@ -4,7 +4,7 @@
 
 Pentru taskul 1 am citit imagile si am obtinut valorile singulare folosind 
 
-`svd` : `[U, S, V] = svd(A_k)`.
+`svd : [U, S, V] = svd(A_k)`.
 
 Pentru matricile U,S,V am facut descompunerea redusa a valorilor singulare, apoi am obtinut compresia imaginilor.
 
