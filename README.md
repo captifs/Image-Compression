@@ -1,5 +1,5 @@
 
-
+# Image Compression
 
 
 Pentru taskul 1 am citit imagile si am obtinut valorile singulare folosind 
