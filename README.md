@@ -8,8 +8,13 @@ Pentru taskul 1 am citit imagile si am obtinut valorile singulare folosind
 
 Pentru matricile U,S,V am facut descompunerea redusa a valorilor singulare, apoi am obtinut compresia imaginilor.
 
+___
+
+
 Task 2,6 am construit cele 4 grafice pentru primele 2 imagini , graficele se gasesc in  
 >README.pdf.
+
+___
 
 Pentru taskul 3 am urmarit pasii prezentati in algoritmul din tema , am citit imaginea , am calculat media pe fiecare linie a matricii reactualizand matricea. 
 
